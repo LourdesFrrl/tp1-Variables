@@ -13,6 +13,17 @@ Este proyecto contiene una serie de **ejercicios prácticos de JavaScript** que 
 📁css/
 └── style.css
 📁js/
+├── 1-unMensaje.js
+├── 2-helloWorld.js
+├── 3-suma3y5.js
+├── 4-holaUsuario.js
+├── 5-sumaDosNumeros.js
+├── 6-numeroMayor.js
+├── 7-mayorDeLos3.js
+├── 8-divisiblePor2.js
+├── 9-escribirVocales.js
+├── 10-divisible2357.JS
+├── 11-porCualEsDivisible.js
 ├── area-perimetro.js
 ├── descuento.js
 ├── gradosCelsius.js
@@ -20,8 +31,8 @@ Este proyecto contiene una serie de **ejercicios prácticos de JavaScript** que 
 ├── multiplicarx10.js
 ├── ParImpar.js
 └── sumaDosNumeros.js
-📋index.html
-🌐README.md
+📋 index.html  
+📝 README.md
 ```
 
 ### Descripción de los ejercicios
