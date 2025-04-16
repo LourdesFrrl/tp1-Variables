@@ -37,6 +37,17 @@ Este proyecto contiene una serie de **ejercicios prácticos de JavaScript** que 
 
 ### Descripción de los ejercicios
 
+- **alertaMensaje.js**: Muestra un mensaje en pantalla utilizando `alert`.
+- **helloWorld.js**: Escribe el mensaje "Hello World" en el documento HTML con `document.write`.
+- **sumaSimple.js**: Muestra en pantalla el resultado de sumar 3 + 5.
+- **saludoUsuario.js**: Solicita el nombre del usuario mediante `prompt` y muestra un saludo personalizado.
+- **sumaDosNumeros.js**: Pide dos números al usuario, los convierte con `parseInt`, y muestra su suma.
+- **numeroMayorDos.js**: Pide dos números y muestra cuál es el mayor.
+- **numeroMayorTres.js**: Pide tres números y muestra el mayor de los tres.
+- **divisiblePorDos.js**: Pide un número y determina si es divisible por 2.
+- **vocalesFrase.js**: Pide una frase y muestra las vocales que contiene.
+- **divisiblePor2357.js**: Pide un número y dice si es divisible por 2, 3, 5 o 7 (al menos uno).
+- **divisiblePorCuales.js**: Pide un número y dice exactamente por cuáles de los números 2, 3, 5 y 7 es divisible.
 - **area-perimetro.js**: Calcula el área y el perímetro de un rectángulo.
 - **descuento.js**: Aplica un porcentaje de 10% de descuento a un precio ingresado.
 - **gradosCelsius.js**: Convierte grados Fahrenheit a grados Celsius.
